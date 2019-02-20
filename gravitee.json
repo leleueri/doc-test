@@ -3,21 +3,18 @@
     "documentation": {
         "pages": [
             {
-                "src": "/docs/first.md",
-                "dest": "/ma premiere page",
+                "src": "/README.md",
+                "dest": "/",
+                "name": "Homepage",
                 "homepage": true
             },
             {
-                "src": "/docs/second.md",
-                "dest": "/ma deuxieme page"
+                "src": "/docs/swagger.json",
+                "dest": "/"
             },
             {
-                "src": "/docs/swagger/swagger.json",
-                "dest": "/technical/Swagger"
-            },
-            {
-                "src": "/docs/swagger/readme.md",
-                "dest": "/technical/How to use the api"
+                "src": "/docs/readme.md",
+                "dest": "/explain/How to use the api"
             }
         ]
     }
