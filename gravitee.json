@@ -1,0 +1,24 @@
+{
+    "version": "1",
+    "documentation": {
+        "pages": [
+            {
+                "src": "/docs/first.md",
+                "dest": "/ma premiere page",
+                "homepage": true
+            },
+            {
+                "src": "/docs/second.md",
+                "dest": "/ma deuxieme page"
+            },
+            {
+                "src": "/docs/swagger/swagger.json",
+                "dest": "/technical/Swagger"
+            },
+            {
+                "src": "/docs/swagger/readme.md",
+                "dest": "/technical/How to use the api"
+            }
+        ]
+    }
+}
