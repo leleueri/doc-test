@@ -15,6 +15,10 @@
             {
                 "src": "/docs/readme.md",
                 "dest": "/explain/How to use the api"
+            },
+            {
+                "src": "/docs/About.md",
+                "dest": "/About/About Me"
             }
         ]
     }
